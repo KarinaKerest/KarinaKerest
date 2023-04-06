@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**KarinaKerest/KarinaKerest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About me:
++ :construction_worker: I am a QA Engineer Manual
++ Fun fact: As a child, I had a crush on Simba and wished to marry a lion 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+
+<div id="header" align="center">
+
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/karyna-kerest-593715253/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a> 
+  
+  <a href="https://t.me/KeriKerest">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>  
+</div> 
