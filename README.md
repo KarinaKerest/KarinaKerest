@@ -8,7 +8,7 @@
 
 ---
 <!-- Соціальні мережі --> 
- ### **Connect With Me✨ :** 
+ ### **✨ Connect With Me:** 
 
 
 <div id="header" align="center">
