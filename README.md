@@ -8,7 +8,7 @@
 
 ---
 <!-- Соціальні мережі --> 
- # **Підключись до мене** 
+ ### **Connect With Me** 
 
 
 <div id="header" align="center">
