@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>  
   
-  <a href="https://instagram.com/kerestkarina?igshid=YmMyMTA2M2Y=/">
+  <a href="https://instagram.com/karina_k_94?igshid=NTc4MTIwNjQ2YQ==">
   <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=yellow&style=for-the-badge" alt="Instagram Badge"/>
   </a> 
 </div> 
