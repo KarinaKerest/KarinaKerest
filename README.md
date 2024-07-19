@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### :man_technologist: About me:
-+ :construction_worker: I am a QA Manual Engineer
++ :construction_worker: I am a Manual QA  Engineer
 + Fun fact: As a child, I had a crush on Simba and wished to marry a lion 😄
 
 
